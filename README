@@ -2,6 +2,9 @@ Current build: BuildV3.2
 
 A small game where the main characters Z-Axis is unlocked. Try to beat (so far) 4 challenging levels (you probably wont)!
 
+I mainly made this project as a little thing in my coding school, where we learn how to code. The coach gave us some simple stuff, but I wanted to go further. 
+So, I added some more features, like a turret, a node enemy, and a shop. So far, I am very happy with how this is turning out.
+
 Here are the controls:
 
 w= Perform a LARGE jump
