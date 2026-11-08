@@ -5,6 +5,9 @@ A small game where the main characters Z-Axis is unlocked. Try to beat (so far) 
 I mainly made this project as a little thing in my coding school, where we learn how to code. The coach gave us some simple stuff, but I wanted to go further. 
 So, I added some more features, like a turret, a node enemy, and a shop. So far, I am very happy with how this is turning out.
 
+How to run:
+Either download the .zip file, unzip, and play that way. Or if you want to make your life easier, visit https://hi-ninjaman.itch.io/no-z-axis instead. the .html works unusually when opening it (or at least i experience issues), so I recommend itch.io.
+
 Here are the controls:
 
 w= Perform a LARGE jump
